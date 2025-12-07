@@ -13,10 +13,6 @@ body {
   line-height: 1.5;
 }
 /* task-1 css*/
-.back-link {
-  margin-bottom: 24px;
-}
-
 .back-link a {
   color: #2196f3;
   text-decoration: none;
